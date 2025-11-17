@@ -1,9 +1,12 @@
-![banner](https://github.com/user-attachments/assets/940b3180-9107-49e1-a1ed-8dea23c182ca)<h1 align="center">Hi 👋, I'm Rakindu Rajapaksha</h1>
+<h1 align="center">Hi 👋, I'm Rakindu Rajapaksha</h1>
 <h3 align="center">🎓 Undergraduate at Sri Lanka Institute of Information Technology (SLIIT) Malabe | Full-Stack & Mobile Developer</h3>
-
 <!-- Banner / Hero Section -->
 <p align="center">
-  <img src="assets/banner.png" alt="Rakindu Rajapaksha Banner" width="100%" /> -->
+  <img 
+    src="https://github.com/user-attachments/assets/940b3180-9107-49e1-a1ed-8dea23c182ca" 
+    alt="Rakindu Rajapaksha Banner" 
+    width="500"
+  />
 </p>
 
 <p align="center">
