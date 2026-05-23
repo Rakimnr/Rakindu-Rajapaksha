@@ -165,16 +165,6 @@ My development interests include **full-stack web applications**, **Android mobi
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rakimnr&show_icons=true&theme=tokyonight" alt="Rakindu GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakimnr&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
 ---
 
 ## 🤝 Connect With Me
